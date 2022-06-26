@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: brjc.plugin
+Bundle-Vendor: brjc.plugin
+Bundle-SymbolicName: brjc.plugin
+Bundle-Version: 0.0.1.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: brjc.plugin

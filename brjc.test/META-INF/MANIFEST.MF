@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: brjc.test
+Bundle-Vendor: brjc
+Bundle-SymbolicName: brjc.test
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: brjc.plugin;bundle-version="0.0.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.junit.jupiter.api
+Automatic-Module-Name: brjc.test
